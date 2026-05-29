@@ -91,3 +91,6 @@ Conclusion: A 3.8 average is adequate but not competitive in e-commerce, where t
 
 Conclusion
 This store has a strong revenue foundation built on Electronics and a healthy base of Regular and Loyal customers. However, concentration risk, an underperforming VIP program, and an ineffective deep-discount strategy represent the three most critical vulnerabilities. Addressing these alongside targeted demographic and seasonal strategies can sustainably grow total revenue while reducing dependency on a single category.
+
+
+<img width="3231" height="3336" alt="image" src="https://github.com/user-attachments/assets/75aa095e-f977-4ab3-9426-0d22d31ada0e" />
